@@ -1,1 +1,39 @@
-theme: jekyll-theme-cayman
+# visit https://github.com/mojombo/jekyll/wiki/Configuration for more settings
+
+paginate: 10 # pagination based on number of posts
+paginate_path: "page:num"
+exclude: ["README.md"] # files to exclude
+highlighter: rouge
+markdown: kramdown
+disqus: 李舰
+google_analytics: 李舰
+title: 李舰
+
+defaults:
+  -
+    scope:
+      path: "" # empty string for all files
+    values:
+      title: 李舰
+
+description: LiJian24 个人博客
+author:
+  name: 李舰
+  email: 648940683@qq.com
+  github: shqcandy
+  twitter: LJian24
+  bio: 再回首
+  email_md5: 829343d60b659dd892b3fae55d2763dc
+
+rss_path: feed.xml
+categories_path: categories.html
+tags_path: tags.html
+
+# set it as url of an image
+# sidebar_background_image: https://www.dropbox.com/s/g9h23zrycedxtk5/sky.png?raw=1
+
+BASE_PATH:
+
+plugins:
+  - jekyll-paginate
+
