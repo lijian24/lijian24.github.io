@@ -1,5 +1,5 @@
 current directory: /Users/lijian24/workspaces/github/lijian24.github.io/vendor/bundle/ruby/2.6.0/gems/sassc-2.4.0/ext
-/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/bin/ruby -I /System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0 -r ./siteconf20210710-76804-1i97w5w.rb extconf.rb
+/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/bin/ruby -I /System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0 -r ./siteconf20210712-12782-ozhs73.rb extconf.rb
 creating Makefile
 
 current directory: /Users/lijian24/workspaces/github/lijian24.github.io/vendor/bundle/ruby/2.6.0/gems/sassc-2.4.0/ext
@@ -77,72 +77,72 @@ linking shared-object sassc/libsass.bundle
 ld: warning: directory not found for option '-L/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.0.Internal.sdk/usr/local/lib'
 ld: warning: ignoring file ast2c.o, building for macOS-arm64e but attempting to link with file built for unknown-x86_64
 ld: warning: ignoring file ast.o, building for macOS-arm64e but attempting to link with file built for unknown-x86_64
-ld: warning: ignoring file ast_fwd_decl.o, building for macOS-arm64e but attempting to link with file built for unknown-x86_64
-ld: warning: ignoring file ast_sel_cmp.o, building for macOS-arm64e but attempting to link with file built for unknown-x86_64
 ld: warning: ignoring file ast_sel_super.o, building for macOS-arm64e but attempting to link with file built for unknown-x86_64
+ld: warning: ignoring file ast_sel_cmp.o, building for macOS-arm64e but attempting to link with file built for unknown-x86_64
+ld: warning: ignoring file ast_fwd_decl.o, building for macOS-arm64e but attempting to link with file built for unknown-x86_64
 ld: warning: ignoring file ast_sel_unify.o, building for macOS-arm64e but attempting to link with file built for unknown-x86_64
 ld: warning: ignoring file ast_sel_weave.o, building for macOS-arm64e but attempting to link with file built for unknown-x86_64
-ld: warning: ignoring file ast_supports.o, building for macOS-arm64e but attempting to link with file built for unknown-x86_64
 ld: warning: ignoring file ast_selectors.o, building for macOS-arm64e but attempting to link with file built for unknown-x86_64
-ld: warning: ignoring file ast_values.o, building for macOS-arm64e but attempting to link with file built for unknown-x86_64
-ld: warning: ignoring file backtrace.o, building for macOS-arm64e but attempting to link with file built for unknown-x86_64
+ld: warning: ignoring file ast_supports.o, building for macOS-arm64e but attempting to link with file built for unknown-x86_64
 ld: warning: ignoring file c99func.o, building for macOS-arm64e but attempting to link with file built for unknown-x86_64
 ld: warning: ignoring file cencode.o, building for macOS-arm64e but attempting to link with file built for unknown-x86_64
+ld: warning: ignoring file ast_values.o, building for macOS-arm64e but attempting to link with file built for unknown-x86_64
+ld: warning: ignoring file base64vlq.o, building for macOS-arm64e but attempting to link with file built for unknown-x86_64ld: warning: ld: warning: ignoring file backtrace.o, building for macOS-arm64e but attempting to link with file built for unknown-x86_64ignoring file bind.o, building for macOS-arm64e but attempting to link with file built for unknown-x86_64
+
+
 ld: warning: ignoring file c2ast.o, building for macOS-arm64e but attempting to link with file built for unknown-x86_64
-ld: warning: ignoring file base64vlq.o, building for macOS-arm64e but attempting to link with file built for unknown-x86_64
-ld: warning: ignoring file bind.o, building for macOS-arm64e but attempting to link with file built for unknown-x86_64
 ld: warning: ignoring file check_nesting.o, building for macOS-arm64e but attempting to link with file built for unknown-x86_64
 ld: warning: ignoring file color_maps.o, building for macOS-arm64e but attempting to link with file built for unknown-x86_64
 ld: warning: ignoring file constants.o, building for macOS-arm64e but attempting to link with file built for unknown-x86_64
 ld: warning: ignoring file context.o, building for macOS-arm64e but attempting to link with file built for unknown-x86_64
-ld: warning: ignoring file environment.o, building for macOS-arm64e but attempting to link with file built for unknown-x86_64
 ld: warning: ignoring file cssize.o, building for macOS-arm64e but attempting to link with file built for unknown-x86_64
 ld: warning: ignoring file error_handling.o, building for macOS-arm64e but attempting to link with file built for unknown-x86_64
-ld: warning: ignoring file eval.o, building for macOS-arm64e but attempting to link with file built for unknown-x86_64
 ld: warning: ignoring file emitter.o, building for macOS-arm64e but attempting to link with file built for unknown-x86_64
+ld: warning: ignoring file environment.o, building for macOS-arm64e but attempting to link with file built for unknown-x86_64
+ld: warning: ignoring file eval.o, building for macOS-arm64e but attempting to link with file built for unknown-x86_64
 ld: warning: ignoring file eval_selectors.o, building for macOS-arm64e but attempting to link with file built for unknown-x86_64
-ld: warning: ignoring file expand.o, building for macOS-arm64e but attempting to link with file built for unknown-x86_64
-ld: warning: ignoring file extender.o, building for macOS-arm64e but attempting to link with file built for unknown-x86_64
 ld: warning: ignoring file extension.o, building for macOS-arm64e but attempting to link with file built for unknown-x86_64
+ld: warning: ignoring file expand.o, building for macOS-arm64e but attempting to link with file built for unknown-x86_64
 ld: warning: ignoring file file.o, building for macOS-arm64e but attempting to link with file built for unknown-x86_64
-ld: warning: ignoring file fn_maps.o, building for macOS-arm64e but attempting to link with file built for unknown-x86_64
-ld: warning: ignoring file fn_lists.o, building for macOS-arm64e but attempting to link with file built for unknown-x86_64
+ld: warning: ignoring file extender.o, building for macOS-arm64e but attempting to link with file built for unknown-x86_64
 ld: warning: ignoring file fn_colors.o, building for macOS-arm64e but attempting to link with file built for unknown-x86_64
-ld: warning: ignoring file fn_miscs.o, building for macOS-arm64e but attempting to link with file built for unknown-x86_64
+ld: warning: ignoring file fn_lists.o, building for macOS-arm64e but attempting to link with file built for unknown-x86_64
+ld: warning: ignoring file fn_maps.o, building for macOS-arm64e but attempting to link with file built for unknown-x86_64
 ld: warning: ignoring file fn_numbers.o, building for macOS-arm64e but attempting to link with file built for unknown-x86_64
+ld: warning: ignoring file fn_miscs.o, building for macOS-arm64e but attempting to link with file built for unknown-x86_64
+ld: warning: ignoring file fn_utils.o, building for macOS-arm64e but attempting to link with file built for unknown-x86_64
 ld: warning: ignoring file fn_strings.o, building for macOS-arm64e but attempting to link with file built for unknown-x86_64
 ld: warning: ignoring file fn_selectors.o, building for macOS-arm64e but attempting to link with file built for unknown-x86_64
-ld: warning: ignoring file fn_utils.o, building for macOS-arm64e but attempting to link with file built for unknown-x86_64
 ld: warning: ignoring file json.o, building for macOS-arm64e but attempting to link with file built for unknown-x86_64
-ld: warning: ignoring file inspect.o, building for macOS-arm64e but attempting to link with file built for unknown-x86_64
 ld: warning: ignoring file lexer.o, building for macOS-arm64e but attempting to link with file built for unknown-x86_64
+ld: warning: ignoring file inspect.o, building for macOS-arm64e but attempting to link with file built for unknown-x86_64
+ld: warning: ignoring file parser_selectors.o, building for macOS-arm64e but attempting to link with file built for unknown-x86_64
+ld: warning: ignoring file listize.o, building for macOS-arm64e but attempting to link with file built for unknown-x86_64
 ld: warning: ignoring file allocator.o, building for macOS-arm64e but attempting to link with file built for unknown-x86_64
 ld: warning: ignoring file plugins.o, building for macOS-arm64e but attempting to link with file built for unknown-x86_64
-ld: warning: ignoring file parser_selectors.o, building for macOS-arm64e but attempting to link with file built for unknown-x86_64
 ld: warning: ignoring file position.o, building for macOS-arm64e but attempting to link with file built for unknown-x86_64
-ld: warning: ignoring file listize.o, building for macOS-arm64e but attempting to link with file built for unknown-x86_64
-ld: warning: ignoring file parser.o, building for macOS-arm64e but attempting to link with file built for unknown-x86_64
+ld: warning: ignoring file shared_ptr.o, building for macOS-arm64e but attempting to link with file built for unknown-x86_64
+ld: warning: ignoring file operators.o, building for macOS-arm64e but attempting to link with file built for unknown-x86_64
 ld: warning: ignoring file prelexer.o, building for macOS-arm64e but attempting to link with file built for unknown-x86_64
 ld: warning: ignoring file sass2scss.o, building for macOS-arm64e but attempting to link with file built for unknown-x86_64
 ld: warning: ignoring file remove_placeholders.o, building for macOS-arm64e but attempting to link with file built for unknown-x86_64
-ld: warning: ignoring file shared_ptr.o, building for macOS-arm64e but attempting to link with file built for unknown-x86_64
-ld: warning: ignoring file sass_context.o, building for macOS-arm64e but attempting to link with file built for unknown-x86_64
 ld: warning: ignoring file sass.o, building for macOS-arm64e but attempting to link with file built for unknown-x86_64
-ld: warning: ignoring file operators.o, building for macOS-arm64e but attempting to link with file built for unknown-x86_64
-ld: warning: ignoring file stylesheet.o, building for macOS-arm64e but attempting to link with file built for unknown-x86_64
-ld: warning: ignoring file source.o, building for macOS-arm64e but attempting to link with file built for unknown-x86_64
-ld: warning: ignoring file sass_functions.o, building for macOS-arm64e but attempting to link with file built for unknown-x86_64
-ld: warning: ignoring file units.o, building for macOS-arm64e but attempting to link with file built for unknown-x86_64
-ld: warning: ignoring file source_map.o, building for macOS-arm64e but attempting to link with file built for unknown-x86_64
-ld: warning: ignoring file sass_values.o, building for macOS-arm64e but attempting to link with file built for unknown-x86_64
+ld: warning: ignoring file parser.o, building for macOS-arm64e but attempting to link with file built for unknown-x86_64ld: warning: ignoring file source.o, building for macOS-arm64e but attempting to link with file built for unknown-x86_64
+
+ld: warning: ld: warning: ignoring file sass_context.o, building for macOS-arm64e but attempting to link with file built for unknown-x86_64
+ld: warning: ld: warning: ld: warning: ignoring file stylesheet.o, building for macOS-arm64e but attempting to link with file built for unknown-x86_64ignoring file sass_functions.o, building for macOS-arm64e but attempting to link with file built for unknown-x86_64
+
+ignoring file sass_values.o, building for macOS-arm64e but attempting to link with file built for unknown-x86_64
+ld: warning: ignoring file source_map.o, building for macOS-arm64e but attempting to link with file built for unknown-x86_64ld: warning: ignoring file units.o, building for macOS-arm64e but attempting to link with file built for unknown-x86_64ignoring file output.o, building for macOS-arm64e but attempting to link with file built for unknown-x86_64
+
 ld: warning: ignoring file utf8_string.o, building for macOS-arm64e but attempting to link with file built for unknown-x86_64
-ld: warning: ignoring file util_string.o, building for macOS-arm64e but attempting to link with file built for unknown-x86_64
-ld: warning: ignoring file output.o, building for macOS-arm64e but attempting to link with file built for unknown-x86_64
 ld: warning: ignoring file to_value.o, building for macOS-arm64e but attempting to link with file built for unknown-x86_64
-ld: warning: ignoring file util.o, building for macOS-arm64e but attempting to link with file built for unknown-x86_64
+
+ld: warning: ignoring file util_string.o, building for macOS-arm64e but attempting to link with file built for unknown-x86_64
 ld: warning: ignoring file values.o, building for macOS-arm64e but attempting to link with file built for unknown-x86_64
+ld: warning: ignoring file util.o, building for macOS-arm64e but attempting to link with file built for unknown-x86_64
 ld: warning: directory not found for option '-L/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.0.Internal.sdk/usr/local/lib'
 
 current directory: /Users/lijian24/workspaces/github/lijian24.github.io/vendor/bundle/ruby/2.6.0/gems/sassc-2.4.0/ext
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 libsass.bundle ./.gem.20210710-76804-1g52c1i/sassc
+/usr/bin/install -c -m 0755 libsass.bundle ./.gem.20210712-12782-6gxtkj/sassc
